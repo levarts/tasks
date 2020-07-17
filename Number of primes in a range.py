@@ -1,3 +1,9 @@
+# Find the number of prime numbers in the range from [a, b].
+# Input data format: two integers a, b (−3600≤a≤b≤3600), each on a new line.
+# Output data format: the number of prime numbers in this range.
+# Notes: a number is called prime if it is a natural (non-negative integer),
+# and it has exactly two different natural divisors: 1 and the number itself.
+
 a = int(input())
 b = int(input())
 c = 0
