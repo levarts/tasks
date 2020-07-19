@@ -1,5 +1,7 @@
 # Find a number in the interval [l;r]
 # with the maximum sum of its natural divisors
+# Input: left and right border of the interval
+# Output: a number with the maximum sum of its natural divisors
 
 l = int(input())
 r = int(input())
