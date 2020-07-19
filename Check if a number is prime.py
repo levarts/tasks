@@ -1,4 +1,5 @@
-# Check if a number is prime
+# Input: a number
+# Output: true/false
 n = int(input())
 
 if (n % 2 == 0): # if a number is even, then it is definitely composite
