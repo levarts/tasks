@@ -1,7 +1,7 @@
 # The flakes "Alphabet" had N different letters.
-# Ira designated with the Word any sequence of N letters
+# Ira designated with the "Word" any sequence of N letters
 # in which there are at least two identical letters.
-# How many words can Ira make from flakes?
+# How many "Words" can Ira make from flakes?
 # Input: 2 <= N <= 10
 
 n = int(input())
